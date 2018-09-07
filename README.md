@@ -1,2 +1,2 @@
 # gomyadmin
-manage the MySQL using Golang
+Manage the MySQL using Golang
